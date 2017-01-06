@@ -15,6 +15,7 @@ public class Prob4 {
 	}
 	
 	public static char[] reverse(String  str) {
+		char[] c =str.toCharArray();
 	}
 
 	public static void printCharArray(char[] array){
